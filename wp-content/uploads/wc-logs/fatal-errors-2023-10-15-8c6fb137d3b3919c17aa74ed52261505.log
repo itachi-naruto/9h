@@ -1,0 +1,195 @@
+2023-10-15T06:37:31+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:48
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(310): prevent_offer_removal('<a href="http:/...', '98f13708210194c...')
+#1 C:\laragon\www\9H\wp-includes\plugin.php(205): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 C:\laragon\www\9H\wp-content\plugins\woocommerce\templates\cart\cart.php(70): apply_filters('woocommerce_car...', '<a href="http:/...', '98f13708210194c...')
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#6 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes. in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 48
+
+2023-10-15T06:37:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:48
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(310): prevent_offer_removal('<a href="http:/...', '98f13708210194c...')
+#1 C:\laragon\www\9H\wp-includes\plugin.php(205): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 C:\laragon\www\9H\wp-content\plugins\woocommerce\templates\cart\cart.php(70): apply_filters('woocommerce_car...', '<a href="http:/...', '98f13708210194c...')
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#6 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes. in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 48
+
+2023-10-15T06:37:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:48
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(310): prevent_offer_removal('<a href="http:/...', '98f13708210194c...')
+#1 C:\laragon\www\9H\wp-includes\plugin.php(205): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 C:\laragon\www\9H\wp-content\plugins\woocommerce\templates\cart\cart.php(70): apply_filters('woocommerce_car...', '<a href="http:/...', '98f13708210194c...')
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#6 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes. in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 48
+
+2023-10-15T06:38:14+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:47
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(310): prevent_offer_removal('<a href="http:/...', '98f13708210194c...')
+#1 C:\laragon\www\9H\wp-includes\plugin.php(205): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 C:\laragon\www\9H\wp-content\plugins\woocommerce\templates\cart\cart.php(70): apply_filters('woocommerce_car...', '<a href="http:/...', '98f13708210194c...')
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\laragon\\www\\...')
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#6 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes. in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 47
+
+2023-10-15T09:06:27+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:13
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('98f13708210194c...', 20)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '98f13708210194c...', 20, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 13
+
+2023-10-15T09:06:32+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:13
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 13
+
+2023-10-15T09:09:56+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:13
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 13
+
+2023-10-15T09:12:00+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:13
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 13
+
+2023-10-15T09:14:51+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:15:05+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('6f4922f45568161...', 18)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '6f4922f45568161...', 18, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:16:54+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:17:38+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:17:45+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:19:12+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:19:20+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:21:35+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T09:23:13+00:00 CRITICAL Uncaught Error: Call to a member function set_price() on string in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:17
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...', 17)
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 17
+
+2023-10-15T10:40:12+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on array in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:26
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...')
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes\V1\Ca in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 26
+
+2023-10-15T10:40:53+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on array in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:26
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...')
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes\V1\Ca in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 26
+
+2023-10-15T10:41:00+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on array in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:26
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(312): add_offer_product_to_cart('70efdf2ec9b0860...')
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Utilities\CartController.php(172): do_action('woocommerce_add...', '70efdf2ec9b0860...', 17, 1, 0, Array, Array)
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\CartAddItem.php(120): Automattic\WooCommerce\StoreApi\Utilities\CartController->add_to_cart(Array)
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\StoreApi\Routes\V1\AbstractRoute.php(119): Automattic\WooCommerce\StoreApi\Routes\V1\Ca in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 26
+
+2023-10-15T11:12:12+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code:25
+Stack trace:
+#0 C:\laragon\www\9H\wp-includes\class-wp-hook.php(310): auto_add_or_remove_offer_product('')
+#1 C:\laragon\www\9H\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#2 C:\laragon\www\9H\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\laragon\www\9H\wp-content\plugins\woocommerce\templates\cart\cart.php(20): do_action('woocommerce_bef...')
+#4 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\laragon\\www\\...')
+#5 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-cart.php(99): wc_get_template('cart/cart.php')
+#6 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#7 C:\laragon\www\9H\wp-content\plugins\woocommerce\includes\class-wc-shortcodes.php(85): WC_Sh in C:\laragon\www\9H\wp-content\plugins\code-snippets\php\snippet-ops.php(581) : eval()'d code on line 25
+
